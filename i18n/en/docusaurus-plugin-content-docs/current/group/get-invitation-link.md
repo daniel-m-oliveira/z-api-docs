@@ -7,7 +7,7 @@ title: Get Group Invitation Link
 
 #### /group-invitation-link/{groupId}  
 
-`POST` https://api.z-api.io/instances/YOUR_INSTANCE/token/YOUR_TOKEN/group-invitation-link/{groupId}  
+`GET` https://api.z-api.io/instances/YOUR_INSTANCE/token/YOUR_TOKEN/group-invitation-link/{groupId}  
 
 ### Header  
 
@@ -37,7 +37,7 @@ This method allows you to obtain a group's invitation link.
 
 #### URL  
 
-`POST` https://api.z-api.io/instances/YOUR_INSTANCE/token/YOUR_TOKEN/group-invitation-link/120363019502650977-group  
+`GET` https://api.z-api.io/instances/YOUR_INSTANCE/token/YOUR_TOKEN/group-invitation-link/120363019502650977-group  
 
 ---
 
